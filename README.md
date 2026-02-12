@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EvanFeedback
-- 👀 I’m interested in Learning Python, Javascript.
-- 🌱 I’m currently learning C, C++, HTML, CSS, Java, SQL, MongoDB
-- 💞️ I’m looking for something that can help me have a job in the future.
+- 👀 I’m currently employee of Microsoft
+- 🌱 I’m experienced for HTML/CSS, Marketo and AEM
+- 💞️ I’m looking for new job because my contract is ending.
 - 📫 How to reach me mjstyfeedback@gmail.com (checking every week) 
 
 <!---
